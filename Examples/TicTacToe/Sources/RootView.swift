@@ -5,7 +5,7 @@ import SwiftUI
 
 private let readMe = """
   This application demonstrates how to build a moderately complex application in the Composable \
-  Architecture.
+  Architecture. Test Commit.
 
   It includes a login with two-factor authentication, navigation flows, side effects, game logic, \
   and a full test suite.
